@@ -1,4 +1,6 @@
 # Java Web 课程项目：源代码概述
+项目在线体验：http://101.201.81.43:8080
+管理员账户：dozhiyu91@gmail.com    leA4hkk1Jr
 
 ## Java代码结构
 - **`dbmysql` 包**：负责数据库连接和用户借阅系统的管理。
